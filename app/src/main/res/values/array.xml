@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <!--网易新闻-->
+        <item>com.netease.newsreader.activity</item>
+        <!--百度地图-->
+        <item>com.baidu.BaiduMap</item>
+        <!--小米应用市场-->
+        <item>com.xiaomi.market</item>
+        <!--小米音乐-->
+        <item>com.miui.player</item>
+        <!--爱奇艺视频-->
+        <item>com.qiyi.video</item>
+        <!--新浪微博-->
+        <item>com.sina.weibo</item>
+        <!--脉脉-->
+        <item>com.taou.maimai</item>
+        <!--小米钱包-->
+        <item>com.mipay.wallet</item>
+        <!--知乎-->
+        <item>com.zhihu.android</item>
+        <!--酷狗-->
+        <item>com.kugou.android</item>
+        <!--智行旅行-->
+        <item>cn.suanya.zhixing</item>
+        <!--美团-->
+        <item>com.sankuai.meituan</item>
+        <!--12306-->
+        <item>com.MobileTicket</item>
+        <!--乐刻运动-->
+        <item>com.leoao.fitness</item>
+    </string-array>
+</resources>

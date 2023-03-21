@@ -1,0 +1,36 @@
+com.rong862.SplashAd.BuildConfig
+com.rong862.SplashAd.MainHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.AiqiyiHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.BaiduMapHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.KugouHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.LeKeHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.MaimaiHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.MeituanHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.MiPayHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.MiuiMarketHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.MiuiMusicHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.NeteaseHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.SinaWeiboHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.TicketHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.ZhihuHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.ZhixingHook:
+    private static final java.lang.String TAG
+com.rong862.SplashAd.utils.LogUtil:
+    private static final java.lang.String TAG
+    public void <init>()
+com.rong862.SplashAd.utils.PackageUtil:
+    public void <init>()
