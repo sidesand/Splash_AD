@@ -23,6 +23,8 @@ com.rong862.SplashAd.plugin.MiuiMusicHook:
     private static final java.lang.String TAG
 com.rong862.SplashAd.plugin.NeteaseHook:
     private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.QqliveHook:
+    private static final java.lang.String TAG
 com.rong862.SplashAd.plugin.SinaWeiboHook:
     private static final java.lang.String TAG
 com.rong862.SplashAd.plugin.TicketHook:

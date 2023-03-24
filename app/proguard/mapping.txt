@@ -3,8 +3,8 @@
 # min_api: 28
 # common_typos_disable
 # {"id":"com.android.tools.r8.mapping","version":"2.0"}
-# pg_map_id: 35e1bdf
-# pg_map_hash: SHA-256 35e1bdf39d7c829b66141839ce0f8d1dde683c4337dab1768f803c2f59af4c22
+# pg_map_id: c2cc438
+# pg_map_hash: SHA-256 c2cc438393003e1508d9a766ba72f95d8902b775d69deac75bc11b4093f7c5db
 com.rong862.SplashAd.MainHook -> com.rong862.SplashAd.MainHook:
     boolean isLoadPlugin -> a
     boolean access$000() -> a
@@ -69,24 +69,28 @@ com.rong862.SplashAd.plugin.NeteaseHook$1 -> a.l$a:
     java.lang.Class val$mainClass -> a
 com.rong862.SplashAd.plugin.NeteaseHook$2 -> a.l$b:
     com.rong862.SplashAd.plugin.NeteaseHook this$0 -> a
-com.rong862.SplashAd.plugin.SinaWeiboHook -> a.m:
+com.rong862.SplashAd.plugin.QqliveHook -> a.m:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.SinaWeiboHook$1 -> a.m$a:
+com.rong862.SplashAd.plugin.QqliveHook$1 -> a.m$a:
+    com.rong862.SplashAd.plugin.QqliveHook this$0 -> a
+com.rong862.SplashAd.plugin.SinaWeiboHook -> a.n:
+    void startHook(java.lang.ClassLoader) -> a
+com.rong862.SplashAd.plugin.SinaWeiboHook$1 -> a.n$a:
     com.rong862.SplashAd.plugin.SinaWeiboHook this$0 -> b
     java.lang.Class val$mainClass -> a
-com.rong862.SplashAd.plugin.TicketHook -> a.n:
+com.rong862.SplashAd.plugin.TicketHook -> a.o:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.TicketHook$1 -> a.n$a:
+com.rong862.SplashAd.plugin.TicketHook$1 -> a.o$a:
     com.rong862.SplashAd.plugin.TicketHook this$0 -> a
-com.rong862.SplashAd.plugin.TicketHook$2 -> a.n$b:
+com.rong862.SplashAd.plugin.TicketHook$2 -> a.o$b:
     com.rong862.SplashAd.plugin.TicketHook this$0 -> a
-com.rong862.SplashAd.plugin.ZhihuHook -> a.o:
+com.rong862.SplashAd.plugin.ZhihuHook -> a.p:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.ZhihuHook$1 -> a.o$a:
+com.rong862.SplashAd.plugin.ZhihuHook$1 -> a.p$a:
     com.rong862.SplashAd.plugin.ZhihuHook this$0 -> a
-com.rong862.SplashAd.plugin.ZhixingHook -> a.p:
+com.rong862.SplashAd.plugin.ZhixingHook -> a.q:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.ZhixingHook$1 -> a.p$a:
+com.rong862.SplashAd.plugin.ZhixingHook$1 -> a.q$a:
     com.rong862.SplashAd.plugin.ZhixingHook this$0 -> a
 com.rong862.SplashAd.utils.LogUtil -> b.a:
     void debug(java.lang.String,java.lang.String) -> a

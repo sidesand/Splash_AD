@@ -12,6 +12,7 @@ import com.rong862.SplashAd.plugin.MiPayHook;
 import com.rong862.SplashAd.plugin.MiuiMarketHook;
 import com.rong862.SplashAd.plugin.MiuiMusicHook;
 import com.rong862.SplashAd.plugin.NeteaseHook;
+import com.rong862.SplashAd.plugin.QqliveHook;
 import com.rong862.SplashAd.plugin.SinaWeiboHook;
 import com.rong862.SplashAd.plugin.TicketHook;
 import com.rong862.SplashAd.plugin.ZhihuHook;
@@ -55,5 +56,7 @@ public class PackageUtil {
         PACKAGE_MAP.put("com.leoao.fitness", LeKeHook.class);
         //哔哩哔哩
         PACKAGE_MAP.put("tv.danmaku.bili", BilibiliHook.class);
+        //腾讯视频
+        PACKAGE_MAP.put("com.tencent.qqlive", QqliveHook.class);
     }
 }

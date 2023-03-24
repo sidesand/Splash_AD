@@ -31,5 +31,7 @@
         <item>com.leoao.fitness</item>
         <!--哔哩哔哩-->
         <item>tv.danmaku.bili</item>
+        <!--腾讯视频-->
+        <item>com.tencent.qqlive</item>
     </string-array>
 </resources>

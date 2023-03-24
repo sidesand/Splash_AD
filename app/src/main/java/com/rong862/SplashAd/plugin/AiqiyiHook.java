@@ -27,8 +27,6 @@ public class AiqiyiHook extends BaseHook{
 
                 if(TextUtils.equals("extra_origin_component", (String)param.args[0])){
 
-                    debug(TAG,"getStringExtra is called !");
-
                     param.setResult("org.qiyi.android.video.MainActivity");
                 }
             }
