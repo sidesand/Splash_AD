@@ -3,8 +3,8 @@
 # min_api: 28
 # common_typos_disable
 # {"id":"com.android.tools.r8.mapping","version":"2.0"}
-# pg_map_id: 23647db
-# pg_map_hash: SHA-256 23647dbecabe5dbc17fdce394bcf6d7a47611d22d1e69aa70d161aaae55908f5
+# pg_map_id: 35e1bdf
+# pg_map_hash: SHA-256 35e1bdf39d7c829b66141839ce0f8d1dde683c4337dab1768f803c2f59af4c22
 com.rong862.SplashAd.MainHook -> com.rong862.SplashAd.MainHook:
     boolean isLoadPlugin -> a
     boolean access$000() -> a
@@ -22,67 +22,71 @@ com.rong862.SplashAd.plugin.BaiduMapHook$1 -> a.b$a:
     com.rong862.SplashAd.plugin.BaiduMapHook this$0 -> a
 com.rong862.SplashAd.plugin.BaseHook -> a.c:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.KugouHook -> a.d:
+com.rong862.SplashAd.plugin.BilibiliHook -> a.d:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.KugouHook$1 -> a.d$a:
+com.rong862.SplashAd.plugin.BilibiliHook$1 -> a.d$a:
+    com.rong862.SplashAd.plugin.BilibiliHook this$0 -> a
+com.rong862.SplashAd.plugin.KugouHook -> a.e:
+    void startHook(java.lang.ClassLoader) -> a
+com.rong862.SplashAd.plugin.KugouHook$1 -> a.e$a:
     com.rong862.SplashAd.plugin.KugouHook this$0 -> b
     java.lang.Class val$mainClass -> a
-com.rong862.SplashAd.plugin.LeKeHook -> a.e:
+com.rong862.SplashAd.plugin.LeKeHook -> a.f:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.LeKeHook$1 -> a.e$a:
+com.rong862.SplashAd.plugin.LeKeHook$1 -> a.f$a:
     com.rong862.SplashAd.plugin.LeKeHook this$0 -> a
-com.rong862.SplashAd.plugin.LeKeHook$2 -> a.e$b:
+com.rong862.SplashAd.plugin.LeKeHook$2 -> a.f$b:
     com.rong862.SplashAd.plugin.LeKeHook this$0 -> a
-com.rong862.SplashAd.plugin.MaimaiHook -> a.f:
+com.rong862.SplashAd.plugin.MaimaiHook -> a.g:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.MaimaiHook$1 -> a.f$a:
+com.rong862.SplashAd.plugin.MaimaiHook$1 -> a.g$a:
     com.rong862.SplashAd.plugin.MaimaiHook this$0 -> a
-com.rong862.SplashAd.plugin.MeituanHook -> a.g:
+com.rong862.SplashAd.plugin.MeituanHook -> a.h:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.MeituanHook$1 -> a.g$a:
+com.rong862.SplashAd.plugin.MeituanHook$1 -> a.h$a:
     com.rong862.SplashAd.plugin.MeituanHook this$0 -> a
-com.rong862.SplashAd.plugin.MeituanHook$2 -> a.g$b:
+com.rong862.SplashAd.plugin.MeituanHook$2 -> a.h$b:
     com.rong862.SplashAd.plugin.MeituanHook this$0 -> a
-com.rong862.SplashAd.plugin.MeituanHook$3 -> a.g$c:
+com.rong862.SplashAd.plugin.MeituanHook$3 -> a.h$c:
     com.rong862.SplashAd.plugin.MeituanHook this$0 -> a
-com.rong862.SplashAd.plugin.MiPayHook -> a.h:
+com.rong862.SplashAd.plugin.MiPayHook -> a.i:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.MiPayHook$1 -> a.h$a:
+com.rong862.SplashAd.plugin.MiPayHook$1 -> a.i$a:
     com.rong862.SplashAd.plugin.MiPayHook this$0 -> b
     java.lang.Class val$MiFinanceClass -> a
-com.rong862.SplashAd.plugin.MiuiMarketHook -> a.i:
+com.rong862.SplashAd.plugin.MiuiMarketHook -> a.j:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.MiuiMarketHook$1 -> a.i$a:
+com.rong862.SplashAd.plugin.MiuiMarketHook$1 -> a.j$a:
     com.rong862.SplashAd.plugin.MiuiMarketHook this$0 -> a
-com.rong862.SplashAd.plugin.MiuiMusicHook -> a.j:
+com.rong862.SplashAd.plugin.MiuiMusicHook -> a.k:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.MiuiMusicHook$1 -> a.j$a:
+com.rong862.SplashAd.plugin.MiuiMusicHook$1 -> a.k$a:
     com.rong862.SplashAd.plugin.MiuiMusicHook this$0 -> a
-com.rong862.SplashAd.plugin.NeteaseHook -> a.k:
+com.rong862.SplashAd.plugin.NeteaseHook -> a.l:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.NeteaseHook$1 -> a.k$a:
+com.rong862.SplashAd.plugin.NeteaseHook$1 -> a.l$a:
     com.rong862.SplashAd.plugin.NeteaseHook this$0 -> b
     java.lang.Class val$mainClass -> a
-com.rong862.SplashAd.plugin.NeteaseHook$2 -> a.k$b:
+com.rong862.SplashAd.plugin.NeteaseHook$2 -> a.l$b:
     com.rong862.SplashAd.plugin.NeteaseHook this$0 -> a
-com.rong862.SplashAd.plugin.SinaWeiboHook -> a.l:
+com.rong862.SplashAd.plugin.SinaWeiboHook -> a.m:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.SinaWeiboHook$1 -> a.l$a:
+com.rong862.SplashAd.plugin.SinaWeiboHook$1 -> a.m$a:
     com.rong862.SplashAd.plugin.SinaWeiboHook this$0 -> b
     java.lang.Class val$mainClass -> a
-com.rong862.SplashAd.plugin.TicketHook -> a.m:
+com.rong862.SplashAd.plugin.TicketHook -> a.n:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.TicketHook$1 -> a.m$a:
+com.rong862.SplashAd.plugin.TicketHook$1 -> a.n$a:
     com.rong862.SplashAd.plugin.TicketHook this$0 -> a
-com.rong862.SplashAd.plugin.TicketHook$2 -> a.m$b:
+com.rong862.SplashAd.plugin.TicketHook$2 -> a.n$b:
     com.rong862.SplashAd.plugin.TicketHook this$0 -> a
-com.rong862.SplashAd.plugin.ZhihuHook -> a.n:
+com.rong862.SplashAd.plugin.ZhihuHook -> a.o:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.ZhihuHook$1 -> a.n$a:
+com.rong862.SplashAd.plugin.ZhihuHook$1 -> a.o$a:
     com.rong862.SplashAd.plugin.ZhihuHook this$0 -> a
-com.rong862.SplashAd.plugin.ZhixingHook -> a.o:
+com.rong862.SplashAd.plugin.ZhixingHook -> a.p:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.ZhixingHook$1 -> a.o$a:
+com.rong862.SplashAd.plugin.ZhixingHook$1 -> a.p$a:
     com.rong862.SplashAd.plugin.ZhixingHook this$0 -> a
 com.rong862.SplashAd.utils.LogUtil -> b.a:
     void debug(java.lang.String,java.lang.String) -> a

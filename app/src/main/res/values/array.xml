@@ -29,5 +29,7 @@
         <item>com.MobileTicket</item>
         <!--乐刻运动-->
         <item>com.leoao.fitness</item>
+        <!--哔哩哔哩-->
+        <item>tv.danmaku.bili</item>
     </string-array>
 </resources>

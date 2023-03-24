@@ -3,6 +3,7 @@ package com.rong862.SplashAd.utils;
 import com.rong862.SplashAd.plugin.AiqiyiHook;
 import com.rong862.SplashAd.plugin.BaiduMapHook;
 import com.rong862.SplashAd.plugin.BaseHook;
+import com.rong862.SplashAd.plugin.BilibiliHook;
 import com.rong862.SplashAd.plugin.KugouHook;
 import com.rong862.SplashAd.plugin.LeKeHook;
 import com.rong862.SplashAd.plugin.MaimaiHook;
@@ -52,5 +53,7 @@ public class PackageUtil {
         PACKAGE_MAP.put("com.MobileTicket", TicketHook.class);
         //乐刻运动
         PACKAGE_MAP.put("com.leoao.fitness", LeKeHook.class);
+        //哔哩哔哩
+        PACKAGE_MAP.put("tv.danmaku.bili", BilibiliHook.class);
     }
 }

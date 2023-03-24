@@ -5,6 +5,8 @@ com.rong862.SplashAd.plugin.AiqiyiHook:
     private static final java.lang.String TAG
 com.rong862.SplashAd.plugin.BaiduMapHook:
     private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.BilibiliHook:
+    private static final java.lang.String TAG
 com.rong862.SplashAd.plugin.KugouHook:
     private static final java.lang.String TAG
 com.rong862.SplashAd.plugin.LeKeHook:
