@@ -45,3 +45,6 @@ tv.danmaku.bili
 
 <--腾讯视频-->
 com.tencent.qqlive
+
+<-喜马拉雅-->
+com.ximalaya.ting.android
