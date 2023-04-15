@@ -29,6 +29,8 @@ com.rong862.SplashAd.plugin.SinaWeiboHook:
     private static final java.lang.String TAG
 com.rong862.SplashAd.plugin.TicketHook:
     private static final java.lang.String TAG
+com.rong862.SplashAd.plugin.XimalayaHook:
+    private static final java.lang.String TAG
 com.rong862.SplashAd.plugin.ZhihuHook:
     private static final java.lang.String TAG
 com.rong862.SplashAd.plugin.ZhixingHook:

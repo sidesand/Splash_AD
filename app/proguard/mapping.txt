@@ -3,8 +3,8 @@
 # min_api: 28
 # common_typos_disable
 # {"id":"com.android.tools.r8.mapping","version":"2.0"}
-# pg_map_id: c2cc438
-# pg_map_hash: SHA-256 c2cc438393003e1508d9a766ba72f95d8902b775d69deac75bc11b4093f7c5db
+# pg_map_id: 0afefba
+# pg_map_hash: SHA-256 0afefba2b0172de7963557b8fdca2b5055e2106052dcfa2f0e9db46b08b3fc7f
 com.rong862.SplashAd.MainHook -> com.rong862.SplashAd.MainHook:
     boolean isLoadPlugin -> a
     boolean access$000() -> a
@@ -84,13 +84,17 @@ com.rong862.SplashAd.plugin.TicketHook$1 -> a.o$a:
     com.rong862.SplashAd.plugin.TicketHook this$0 -> a
 com.rong862.SplashAd.plugin.TicketHook$2 -> a.o$b:
     com.rong862.SplashAd.plugin.TicketHook this$0 -> a
-com.rong862.SplashAd.plugin.ZhihuHook -> a.p:
+com.rong862.SplashAd.plugin.XimalayaHook -> a.p:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.ZhihuHook$1 -> a.p$a:
+com.rong862.SplashAd.plugin.XimalayaHook$1 -> a.p$a:
+    com.rong862.SplashAd.plugin.XimalayaHook this$0 -> a
+com.rong862.SplashAd.plugin.ZhihuHook -> a.q:
+    void startHook(java.lang.ClassLoader) -> a
+com.rong862.SplashAd.plugin.ZhihuHook$1 -> a.q$a:
     com.rong862.SplashAd.plugin.ZhihuHook this$0 -> a
-com.rong862.SplashAd.plugin.ZhixingHook -> a.q:
+com.rong862.SplashAd.plugin.ZhixingHook -> a.r:
     void startHook(java.lang.ClassLoader) -> a
-com.rong862.SplashAd.plugin.ZhixingHook$1 -> a.q$a:
+com.rong862.SplashAd.plugin.ZhixingHook$1 -> a.r$a:
     com.rong862.SplashAd.plugin.ZhixingHook this$0 -> a
 com.rong862.SplashAd.utils.LogUtil -> b.a:
     void debug(java.lang.String,java.lang.String) -> a

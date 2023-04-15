@@ -1,33 +1,34 @@
-com.rong862.SplashAd.R$mipmap
-com.rong862.SplashAd.R$drawable
 com.rong862.SplashAd.MainHook
 com.rong862.SplashAd.R$array
 com.rong862.SplashAd.R
+com.rong862.SplashAd.R$mipmap
+com.rong862.SplashAd.R$drawable
 com.rong862.SplashAd.R$drawable: int logo
-com.rong862.SplashAd.R$array: int xposed_scope
 com.rong862.SplashAd.R$mipmap: int ic_launcher_round
+com.rong862.SplashAd.R$array: int xposed_scope
+com.rong862.SplashAd.R$mipmap: int ic_launcher
 com.rong862.SplashAd.R$drawable: int ic_launcher_background
 com.rong862.SplashAd.R$drawable: int ic_launcher_foreground
-com.rong862.SplashAd.R$mipmap: int ic_launcher
-com.rong862.SplashAd.plugin.MiuiMusicHook: MiuiMusicHook()
-com.rong862.SplashAd.plugin.BaseHook: BaseHook()
+com.rong862.SplashAd.plugin.MiPayHook: MiPayHook()
+com.rong862.SplashAd.R: R()
 com.rong862.SplashAd.plugin.MeituanHook: MeituanHook()
+com.rong862.SplashAd.plugin.ZhihuHook: ZhihuHook()
+com.rong862.SplashAd.plugin.QqliveHook: QqliveHook()
 com.rong862.SplashAd.R$array: R$array()
 com.rong862.SplashAd.plugin.BilibiliHook: BilibiliHook()
-com.rong862.SplashAd.plugin.AiqiyiHook: AiqiyiHook()
-com.rong862.SplashAd.MainHook: MainHook()
-com.rong862.SplashAd.R$mipmap: R$mipmap()
-com.rong862.SplashAd.plugin.ZhixingHook: ZhixingHook()
-com.rong862.SplashAd.plugin.NeteaseHook: NeteaseHook()
 com.rong862.SplashAd.plugin.SinaWeiboHook: SinaWeiboHook()
-com.rong862.SplashAd.plugin.MiuiMarketHook: MiuiMarketHook()
-com.rong862.SplashAd.plugin.MiPayHook: MiPayHook()
-com.rong862.SplashAd.plugin.MaimaiHook: MaimaiHook()
+com.rong862.SplashAd.plugin.ZhixingHook: ZhixingHook()
 com.rong862.SplashAd.plugin.TicketHook: TicketHook()
-com.rong862.SplashAd.plugin.QqliveHook: QqliveHook()
-com.rong862.SplashAd.plugin.KugouHook: KugouHook()
+com.rong862.SplashAd.plugin.MiuiMarketHook: MiuiMarketHook()
+com.rong862.SplashAd.R$mipmap: R$mipmap()
+com.rong862.SplashAd.MainHook: MainHook()
+com.rong862.SplashAd.plugin.MiuiMusicHook: MiuiMusicHook()
+com.rong862.SplashAd.plugin.XimalayaHook: XimalayaHook()
+com.rong862.SplashAd.R$drawable: R$drawable()
+com.rong862.SplashAd.plugin.NeteaseHook: NeteaseHook()
+com.rong862.SplashAd.plugin.MaimaiHook: MaimaiHook()
+com.rong862.SplashAd.plugin.AiqiyiHook: AiqiyiHook()
+com.rong862.SplashAd.plugin.BaseHook: BaseHook()
 com.rong862.SplashAd.plugin.BaiduMapHook: BaiduMapHook()
 com.rong862.SplashAd.plugin.LeKeHook: LeKeHook()
-com.rong862.SplashAd.plugin.ZhihuHook: ZhihuHook()
-com.rong862.SplashAd.R: R()
-com.rong862.SplashAd.R$drawable: R$drawable()
+com.rong862.SplashAd.plugin.KugouHook: KugouHook()

@@ -15,6 +15,7 @@ import com.rong862.SplashAd.plugin.NeteaseHook;
 import com.rong862.SplashAd.plugin.QqliveHook;
 import com.rong862.SplashAd.plugin.SinaWeiboHook;
 import com.rong862.SplashAd.plugin.TicketHook;
+import com.rong862.SplashAd.plugin.XimalayaHook;
 import com.rong862.SplashAd.plugin.ZhihuHook;
 import com.rong862.SplashAd.plugin.ZhixingHook;
 
@@ -58,5 +59,7 @@ public class PackageUtil {
         PACKAGE_MAP.put("tv.danmaku.bili", BilibiliHook.class);
         //腾讯视频
         PACKAGE_MAP.put("com.tencent.qqlive", QqliveHook.class);
+        //喜马拉雅
+        PACKAGE_MAP.put("com.ximalaya.ting.android", XimalayaHook.class);
     }
 }

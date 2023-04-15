@@ -33,5 +33,7 @@
         <item>tv.danmaku.bili</item>
         <!--腾讯视频-->
         <item>com.tencent.qqlive</item>
+        <!--喜马拉雅-->
+        <item>com.ximalaya.ting.android</item>
     </string-array>
 </resources>
